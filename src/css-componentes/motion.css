@@ -1,0 +1,26 @@
+.motion-slider {
+    /* width: 100%; */
+    margin: 40px;
+    overflow-x: hidden;
+}
+
+.slider {
+    display: flex;
+    cursor: grab;
+}
+
+.items {
+    height: 25rem;
+    min-width: 15rem;
+    padding: 0.5rem;
+    text-align: center;
+}
+.items:hover{
+    opacity: 0.6;
+}
+
+.items img {
+    width: 100%;
+    height: 80%;
+    pointer-events: none;
+}

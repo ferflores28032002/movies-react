@@ -1,0 +1,15 @@
+.caja_spinners {
+    display: flex;
+    justify-content: center;
+}
+
+.spinners {
+    animation: spinner 1s linear infinite;
+}
+
+
+@keyframes spinner{
+    to{
+        transform: rotate(360deg);
+    }
+}

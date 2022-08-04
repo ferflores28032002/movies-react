@@ -1,0 +1,9 @@
+.img-pelis{
+    width: 140px;
+    border-radius: 10px;
+
+}
+
+.img-pelis:hover {
+    opacity: 0.7;
+}
