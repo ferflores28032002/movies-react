@@ -4,6 +4,7 @@ import fetchApi from './fecthApi';
 import {Link} from 'react-router-dom';
 import Spinners from '../componentes/Spinners';
 
+
 function MoviesSearch(){
     const {movieid} = useParams();
     const [movie, setmovie] = useState(null);

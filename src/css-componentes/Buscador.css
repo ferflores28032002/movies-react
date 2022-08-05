@@ -1,0 +1,9 @@
+.buscador {
+    max-width: 320px;
+}
+
+.caja-contador {
+    display: flex;
+    justify-content: center;
+    padding: 14px 0px 0px 0px;
+}
