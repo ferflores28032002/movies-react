@@ -14,7 +14,7 @@ function App() {
    <div>
     <div className='container pt-4'>
       <div className='text-center pb-4'>
-        <h5>API TheMovieDB</h5>
+        <h5>¡API TheMovieDB!</h5>
       </div>
     </div>
       <main>
